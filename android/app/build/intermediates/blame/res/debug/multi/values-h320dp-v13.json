@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/values-h320dp/values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 57,
+                        "endOffset": 342
+                    }
+                }
+            }
+        ]
+    }
+]

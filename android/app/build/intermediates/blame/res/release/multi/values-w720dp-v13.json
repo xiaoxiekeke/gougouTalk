@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 76,
+                        "endOffset": 361
+                    }
+                }
+            }
+        ]
+    }
+]

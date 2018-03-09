@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/res/xml/preferences.xml"
+    }
+]

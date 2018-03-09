@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ViewManagers/ARTTextManager.m \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ViewManagers/ARTTextManager.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ViewManagers/ARTRenderableManager.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ViewManagers/ARTNodeManager.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ARTRenderable.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/Brushes/ARTBrush.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ARTCGFloatArray.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ARTNode.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ARTText.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/ARTTextFrame.h \
+  /Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native/Libraries/ART/RCTConvert+ART.h

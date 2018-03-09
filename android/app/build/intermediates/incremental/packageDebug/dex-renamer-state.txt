@@ -1,0 +1,7 @@
+#Thu Mar 08 18:44:45 CST 2018
+base.0=/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c71ea5852d9fc0e642727241a7f6cb146d9b8ae2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a32b2af3732c976045299185e4eb9d2879f1664/classes.dex
+base.1=/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a32b2af3732c976045299185e4eb9d2879f1664
+file.0=/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c71ea5852d9fc0e642727241a7f6cb146d9b8ae2/classes.dex

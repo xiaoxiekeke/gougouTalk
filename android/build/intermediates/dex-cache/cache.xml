@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_2fb2c891bf9f50113c65061eb4dd54c8adc5439f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3c3587806048411811c11299d7467aeaf21dbd98">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_235a988ff0ade90839240799b21075f2c1f20e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/a93a48e7c0cbb5d45d10437da825c6b0a6307cae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_c33fcc375754aa93e08072e59cfe86fdfba87993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/support-annotations-23.1.0_330b72b493fcd2d18b2f06649600aab18cfe5e72.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c71ea5852d9fc0e642727241a7f6cb146d9b8ae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/a8c3a0f2fd13ec52bfeac1377cde3e678496e581/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_044d14dcee07ea43f0842437c55cc6b007a52d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/268ff669cda4685c9b79f898d268133850e7d1c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_0b43aefec2822b64696226c4ace66b04da51574f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_652a24efa7baaf8e8c9bc769f187cccb6cda90be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_0e57e1740080f9197b94ab84c6340811fef85e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native-audio/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9a57f1300f02cb3c75988e455b1d65f5af66090">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_cdac48e8f5a3145002facd0fa74cf39900574745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/a354229c9bf1e957c130b42c2664248070340bba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_6eb4323b39e01a8aa23d33da459b6b0c63e1e9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/9adea49041df10ed457be53dc431b6d6bbc9443d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_14a67fb783133e812cf47426a055a751396042dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c1a4e8c008308632244393763dc3ce9910de2287">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a32b2af3732c976045299185e4eb9d2879f1664/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efeb573638d6b2c0d30fbf3e60641272600cf3fe">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_795e14c0e75e6b090dff441b509486cd93c47ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_9a2b112c8ee4bd4d58f8c704b00849e2e6ad8255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/javax.inject-1_df59308ad8f6012686b9be617617fc7432a6825d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/041131c2b8e24545e7cbf553322394f0d688a84c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_8ab85f01a57e662a3aaaf7ad258b0bbccff12752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_b39eafff14fc6474f2ab2472cfed9dae91278453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/Desktop/gougou/gougouTalk/node_modules/react-native-video/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="891759e90a19f234f523d59941e51cf7b6006a75">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_288689f4352806793d199cb9a78c5ec62a33a781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_6353f3714fddca34b2be4169729adb2f01ce133d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/1b7721ef4882bbd8097835a0a68561e8bab4d217/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_bbcdc42c47c6f52a093e7d73657ce616d2c12b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/1b1ae708b765892fb44d1bdbff30cd686ac1b872/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_08d2e1b38c8baa54d7a7e6beb63e79de4db950bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_85e5641f281b89c74857ac74ffdcece5a42d01ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/89eff14086b51251a8a58afcd2c96cc5b11249d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_bc703a80407703708984d11a62c837cfc32efabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/89eff14086b51251a8a58afcd2c96cc5b11249d4/output/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/internal_impl-23.1.0_23389894d003d6d1441df2b0232299704aeae1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_cc89c93e90224056d6bb7fcb21fd0f632ce2e0e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xieke/.android/build-cache/8b3fac09bb65c49bb6abe40fe54e76e85dccc156/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/pre-dexed/release/classes_b8229a477be14d88b0c916376ece6426b781db9e.jar" />
+    </item>
+
+</items>

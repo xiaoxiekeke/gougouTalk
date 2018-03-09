@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/xieke/.android/build-cache/bda3f30a23cb4f132a66cd43d056ad9c0b16744c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/xieke/Desktop/gougou/gougouTalk/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/xieke/.android/build-cache/3fb6b66d09d35140c8435b5d803a47b86764ff9f/output/res/anim/catalyst_fade_in.xml"
+    }
+]
